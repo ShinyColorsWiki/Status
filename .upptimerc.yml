@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Wiki Status
   introTitle: "**ShinyColors.wiki** status"
-  introMessage: Powered by [Upptime](https://github.com/upptime/upptime) and [GitHub](https://github.com/$OWNER/$REPO).
+  introMessage: Powered by [Upptime](https://github.com/upptime/upptime) and [GitHub](https://github.com/ShinyColorsWiki/Status).
   navbar:
     - title: Status
       href: /
