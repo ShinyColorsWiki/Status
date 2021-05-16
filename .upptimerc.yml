@@ -12,7 +12,7 @@ status-website:
   cname: status.shinycolors.wiki
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Wiki Status
   introTitle: "**ShinyColors.wiki** status"
   introMessage: Powered by [Upptime](https://github.com/upptime/upptime) and GitHub.
   navbar:
@@ -20,8 +20,6 @@ status-website:
       href: /
     - title: Wiki
       href: https://shinycolors.wiki/wiki/Main_Page
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
