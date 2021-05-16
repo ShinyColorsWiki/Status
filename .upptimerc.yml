@@ -6,13 +6,13 @@ sites:
   - name: Wiki Main Page
     url: https://shinycolors.wiki/wiki/Main_Page
 
-  - name: "Wiki Page: [Card List/Produce](https://shinycolors.wiki/wiki/Card_List/Produce)"
+  - name: "Wiki Page: Card List/Produce"
     url: https://shinycolors.wiki/wiki/Card_List/Produce
     maxResponseTime: 45000
-  - name: "Wiki Page: [Card List/Support](https://shinycolors.wiki/wiki/Card_List/Support)"
+  - name: "Wiki Page: Card List/Support"
     url: https://shinycolors.wiki/wiki/Card_List/Support
     maxResponseTime: 45000
-  - name: "Wiki Page: [Gacha/Previous Gacha Banners](https://shinycolors.wiki/wiki/Gacha/Previous_Gacha_Banners)"
+  - name: "Wiki Page: Gacha/Previous Gacha Banners"
     url: https://shinycolors.wiki/wiki/Gacha/Previous_Gacha_Banners
     maxResponseTime: 45000
 
