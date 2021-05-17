@@ -21,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.shinycolors.wiki
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://image.shinycolors.wiki/1/1a/WikiLogo150.png
   name: Wiki Status
   introTitle: "**ShinyColors.wiki** status"
   introMessage: Powered by [Upptime](https://github.com/upptime/upptime) and [GitHub](https://github.com/ShinyColorsWiki/Status).
@@ -30,6 +30,9 @@ status-website:
       href: /
     - title: Wiki
       href: https://shinycolors.wiki/wiki/Main_Page
+
+  theme: dark
+  favicon: https://image.shinycolors.wiki/favicon.ico
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
