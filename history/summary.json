@@ -23,13 +23,13 @@
     "icon": "https://favicons.githubusercontent.com/shinycolors.wiki",
     "slug": "wiki-page-card-list-produce",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "96.90%",
+    "uptime": "99.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 454,
-    "timeDay": 418,
+    "timeDay": 298,
     "timeWeek": 495,
     "timeMonth": 454,
     "timeYear": 454,
@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/shinycolors.wiki",
     "slug": "wiki-page-card-list-support",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 429,
     "timeDay": 293,
     "timeWeek": 444,
@@ -62,7 +62,7 @@
     "url": "https://shinycolors.wiki/wiki/Gacha/Previous_Gacha_Banners",
     "icon": "https://favicons.githubusercontent.com/shinycolors.wiki",
     "slug": "wiki-page-gacha-previous-gacha-banners",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -73,6 +73,8 @@
     "timeWeek": 383,
     "timeMonth": 464,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-05": 0
+    }
   }
 ]
