@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/shinycolors.wiki",
     "slug": "wiki-page-card-list-produce",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 502,
     "timeDay": 1254,
     "timeWeek": 689,
@@ -62,9 +62,9 @@
     "url": "https://shinycolors.wiki/wiki/Gacha/Previous_Gacha_Banners",
     "icon": "https://favicons.githubusercontent.com/shinycolors.wiki",
     "slug": "wiki-page-gacha-previous-gacha-banners",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -74,6 +74,7 @@
     "timeMonth": 483,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2021-06-15": 0,
       "2021-06-05": 38
     }
   }
