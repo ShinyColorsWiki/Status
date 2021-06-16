@@ -13,7 +13,7 @@
     "time": 652,
     "timeDay": 553,
     "timeWeek": 659,
-    "timeMonth": 652,
+    "timeMonth": 662,
     "timeYear": 652,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 500,
     "timeDay": 414,
     "timeWeek": 646,
-    "timeMonth": 500,
+    "timeMonth": 510,
     "timeYear": 500,
     "dailyMinutesDown": {
       "2021-06-04": 45
@@ -51,7 +51,7 @@
     "time": 463,
     "timeDay": 509,
     "timeWeek": 602,
-    "timeMonth": 463,
+    "timeMonth": 476,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2021-05-19": 10
@@ -62,18 +62,19 @@
     "url": "https://shinycolors.wiki/wiki/Gacha/Previous_Gacha_Banners",
     "icon": "https://favicons.githubusercontent.com/shinycolors.wiki",
     "slug": "wiki-page-gacha-previous-gacha-banners",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "97.72%",
+    "uptimeDay": "99.91%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 480,
     "timeDay": 431,
     "timeWeek": 552,
-    "timeMonth": 480,
+    "timeMonth": 483,
     "timeYear": 480,
     "dailyMinutesDown": {
+      "2021-06-16": 0,
       "2021-06-15": 33,
       "2021-06-05": 38
     }
