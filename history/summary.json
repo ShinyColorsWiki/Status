@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shinycolors.wiki.ico",
     "slug": "wiki-page-main-page",
     "status": "down",
-    "uptime": "27.57%",
+    "uptime": "27.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 293,
-    "timeDay": 322,
-    "timeWeek": 184,
+    "timeDay": 177,
+    "timeWeek": 202,
     "timeMonth": 208,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2022-11-10": 68,
+      "2022-11-11": 71,
+      "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -379,8 +380,7 @@
       "2021-11-15": 1440,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
-      "2021-11-12": 1440,
-      "2021-11-11": 1440
+      "2021-11-12": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shinycolors.wiki.ico",
     "slug": "wiki-page-card-list-produce",
     "status": "down",
-    "uptime": "27.56%",
+    "uptime": "27.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 115,
-    "timeDay": 56,
-    "timeWeek": 25,
+    "time": 114,
+    "timeDay": 10,
+    "timeWeek": 24,
     "timeMonth": 19,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2022-11-10": 68,
+      "2022-11-11": 71,
+      "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -763,8 +764,7 @@
       "2021-11-15": 1440,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
-      "2021-11-12": 1440,
-      "2021-11-11": 1440
+      "2021-11-12": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shinycolors.wiki.ico",
     "slug": "wiki-page-card-list-support",
     "status": "down",
-    "uptime": "27.56%",
+    "uptime": "27.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 205,
-    "timeDay": 58,
-    "timeWeek": 25,
+    "time": 204,
+    "timeDay": 9,
+    "timeWeek": 24,
     "timeMonth": 21,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2022-11-10": 68,
+      "2022-11-11": 71,
+      "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -1147,8 +1148,7 @@
       "2021-11-15": 1440,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
-      "2021-11-12": 1440,
-      "2021-11-11": 1440
+      "2021-11-12": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shinycolors.wiki.ico",
     "slug": "wiki-page-gacha-previous-gacha-banners",
     "status": "down",
-    "uptime": "27.55%",
+    "uptime": "27.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 105,
-    "timeDay": 58,
-    "timeWeek": 23,
+    "time": 104,
+    "timeDay": 8,
+    "timeWeek": 22,
     "timeMonth": 19,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2022-11-10": 68,
+      "2022-11-11": 71,
+      "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -1531,8 +1532,7 @@
       "2021-11-15": 1440,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
-      "2021-11-12": 1440,
-      "2021-11-11": 1440
+      "2021-11-12": 1440
     }
   }
 ]
